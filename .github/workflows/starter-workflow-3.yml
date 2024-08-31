@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       name:
-        description: "Enter your name"
+        description: "CE7 Wong Teck Choy"
         required: true
 
 jobs:
