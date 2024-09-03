@@ -1,3 +1,3 @@
-# simple-github-starter
+#Github Actions
 
-test for wf5
+Tutorial on using github actions to run workflow.
